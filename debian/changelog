@@ -1,10 +1,10 @@
-kgeography (4:4.10.2-1) UNRELEASED; urgency=low
+kgeography (4:4.10.2-1) experimental; urgency=low
 
   * New upstream.
   * Update uploaders.
   * Bump build-deps.
 
- -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 23:45:20 +0000
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 23:46:10 +0000
 
 kgeography (4:4.8.4-0r1) unstableish; urgency=low
 
