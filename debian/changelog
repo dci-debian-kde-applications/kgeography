@@ -1,3 +1,9 @@
+kgeography (4:4.13.1-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 20 May 2014 11:35:21 +0200
+
 kgeography (4:4.12.2-2) unstable; urgency=medium
 
   * Release to unstable
