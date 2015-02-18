@@ -7,17 +7,11 @@ kgeography (4:14.12.2-1~) UNRELEASED; urgency=medium
 kgeography (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:41:59 -0800
-
-kgeography (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream release
   * Remove kdelibs5-dev depend version as there was not a new release.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 12 Dec 2014 04:35:09 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:41:59 -0800
 
 kgeography (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
@@ -25,13 +19,13 @@ kgeography (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 02 Dec 2014 20:53:20 -0800
 
-kgeography (4:14.11.95-0ubuntu1) vivd; urgency=medium
+kgeography (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, no remaining changes. 
+  * Debian merge, no remaining changes.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 14:36:37 +0000
 
@@ -326,7 +320,7 @@ kgeography (4:4.9.80-0ubuntu1) raring; urgency=low
   * New upstream beta release
 
   [ Philip Muškovac ]
-  * Remove duplicate copyright field to make lintian happy 
+  * Remove duplicate copyright field to make lintian happy
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 23 Nov 2012 23:24:12 +0100
 
@@ -374,12 +368,6 @@ kgeography (4:4.8.4-1) unstable; urgency=low
 
  -- Sune Vuorela <sune@debian.org>  Sat, 16 Jun 2012 23:43:56 +0200
 
-kgeography (4:4.8.4-0r1) unstableish; urgency=low
-
-  * New upstream
-
- -- Sune Vuorela <sune@debian.org>  Sat, 16 Jun 2012 23:43:56 +0200
-
 kgeography (4:4.8.2-0ubuntu1) precise; urgency=low
 
   * New upstream release
@@ -388,7 +376,7 @@ kgeography (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kgeography (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 20:26:45 +0100
 
@@ -424,8 +412,8 @@ kgeography (4:4.7.4-2) unstable; urgency=low
 
 kgeography (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
@@ -481,4 +469,3 @@ kgeography (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Repack upstream source to include a copy of GPL2 and GFDL1.2
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:50:52 +0200
-
