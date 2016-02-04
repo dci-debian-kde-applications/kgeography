@@ -1,3 +1,16 @@
+kgeography (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Debian merge: No remaining changes.
+  * New upstream release. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 04 Feb 2016 07:07:26 -0800
+
+kgeography (4:15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:09 +0100
+
 kgeography (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
@@ -16,6 +29,14 @@ kgeography (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:51:25 +0100
+
+kgeography (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 19:44:29 +0200
 
 kgeography (4:15.08.0-0ubuntu1) wily; urgency=medium
 
