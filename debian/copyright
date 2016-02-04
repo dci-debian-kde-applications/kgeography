@@ -4,20 +4,16 @@ Upstream-Contact: kde-edu@mail.kde.org
 Source: ftp.kde.org
 
 Files: *
-Copyright: 2004-2008, Albert Astals Cid <aacid@kde.org>
-License: GPL-2+
-
-Files: tools/gen_map.pl
-Copyright: 2004, Yann Verley
-License: GPL-2+
-
-Files: src/placeasker.h
-Copyright: 2004-2008, Albert Astals Cid <aacid@kde.org>
-           2006, Isaac Clerencia <isaac@warp.es>
+Copyright: 2004-2008, Albert Astals Cid
+           2008, Albert Astals Cid <aacid@kde.org>
+           1989-1991, Free Software Foundation, Inc
+           2006, Isaac Clerencia
+           2004, Yann Verley
 License: GPL-2+
 
 Files: doc/*
-Copyright: 2005, Anne-Marie Mahfouf
+Copyright: 2004-2008, Albert Astals Cid
+           2005, Anne-Marie Mahfouf
            2008, Kushal Das
 License: GFDL-1.2+
 
