@@ -1,3 +1,11 @@
+kgeography (4:15.12.3-1~1.gbp8a84fd) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @8a84fd8c21fb02ebd4f31c3b06e8f3b36f97843f **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:33:21 +0200
+
 kgeography (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
