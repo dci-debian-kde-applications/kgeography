@@ -1,10 +1,11 @@
-kgeography (4:15.12.3-1~1.gbp8a84fd) UNRELEASED; urgency=medium
+kgeography (4:16.04.0-1~1.gbp74f505) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8a84fd8c21fb02ebd4f31c3b06e8f3b36f97843f **
+  ** SNAPSHOT build @74f5051c2cd7b899af75e2b695a6403bc44ef00b **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:33:21 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 02:32:26 +0200
 
 kgeography (4:15.12.0-1) experimental; urgency=medium
 
