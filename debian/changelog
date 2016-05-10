@@ -1,6 +1,6 @@
-kgeography (4:16.04.0-1~2.gbp0535fa) UNRELEASED; urgency=medium
+kgeography (4:16.04.1-1~1.gbp29aa35) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0535faaaf6881f49a137b43c1749b86b3e6e19f2 **
+  ** SNAPSHOT build @29aa3549e704a99d0af2965f266bd3b212382037 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @74f5051c2cd7b899af75e2b695a6403bc44ef00b **
@@ -11,8 +11,9 @@ kgeography (4:16.04.0-1~2.gbp0535fa) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:32:18 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:32:19 +0200
 
 kgeography (4:15.12.0-1) experimental; urgency=medium
 
