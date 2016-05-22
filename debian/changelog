@@ -1,19 +1,14 @@
-kgeography (4:16.04.1-1~1.gbp29aa35) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @29aa3549e704a99d0af2965f266bd3b212382037 **
+kgeography (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @74f5051c2cd7b899af75e2b695a6403bc44ef00b **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:32:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:23:22 +0200
 
 kgeography (4:15.12.0-1) experimental; urgency=medium
 
