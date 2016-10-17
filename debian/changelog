@@ -1,10 +1,8 @@
-kgeography (4:16.08.0-1~1.gbp7d371c) UNRELEASED; urgency=medium
+kgeography (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7d371caf2d568fdae8268c14ff0709e6c555d5c0 **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:32:20 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:29:35 +0200
 
 kgeography (4:16.04.1-1) unstable; urgency=medium
 
