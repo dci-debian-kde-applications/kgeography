@@ -4,14 +4,14 @@ Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Sune Vuorela <sune@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0~),
-               libkf5doctools-dev (>= 5.15~),
                libkf5configwidgets-dev (>= 5.15~),
                libkf5coreaddons-dev (>= 5.15~),
                libkf5crash-dev (>= 5.15~),
+               libkf5doctools-dev (>= 5.15~),
                libkf5i18n-dev (>= 5.15~),
                libkf5iconthemes-dev (>= 5.15~),
                libkf5itemviews-dev (>= 5.15~),
@@ -19,7 +19,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5widgetsaddons-dev (>= 5.15~),
                libkf5xmlgui-dev (>= 5.15~),
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.4)
+               qtbase5-dev (>= 5.4),
 Standards-Version: 4.1.0
 Homepage: http://edu.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kgeography.git
@@ -29,7 +29,7 @@ Package: kgeography
 Architecture: any
 Depends: kgeography-data (>= ${source:Version}),
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Section: misc
 Suggests: khelpcenter
 Description: geography learning aid for KDE
